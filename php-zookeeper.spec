@@ -9,7 +9,7 @@ Version:	0.2.1
 Release:	%mkrel 2
 Group:		Development/PHP
 License:	PHP License
-URL:		http://pecl.php.net/package/zookeeper/
+URL:		https://pecl.php.net/package/zookeeper/
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
 BuildRequires:	php-devel >= 3:5.2.0
 BuildRequires:	zookeeper-devel >= 3
